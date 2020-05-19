@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-boxy {
+body {
   background: #f4f4f4;
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
@@ -52,6 +52,7 @@ h2 {
   font-weight: 300;
   margin: 0 0 20px;
 }
+
 h3 {
   background-color: #fff;
   border-bottom: 1px solid #111;
